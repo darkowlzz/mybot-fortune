@@ -1,0 +1,36 @@
+{
+  "name": "mybot-fortune",
+  "version": "0.0.1",
+  "description": "mybot fortune cookies plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darkowlzz/mybot-fortune"
+  },
+  "keywords": [
+    "mybot",
+    "fortune",
+    "cookies",
+    "plugin",
+    "irc"
+  ],
+  "author": "Sunny <indiasuny000@gmail.com> (darkowlzz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darkowlzz/mybot-fortune/issues"
+  },
+  "homepage": "https://github.com/darkowlzz/mybot-fortune",
+  "dependencies": {
+    "fortune-teller": "^0.1.0",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "mybot": "git://github.com/darkowlzz/mybot",
+    "q": "^1.1.2",
+    "should": "^4.3.0"
+  }
+}
