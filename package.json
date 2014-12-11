@@ -28,6 +28,7 @@
     "underscore": "^1.7.0"
   },
   "devDependencies": {
+    "bot-test": "git://github.com/darkowlzz/bot-test",
     "mocha": "^2.0.1",
     "mybot": "git://github.com/darkowlzz/mybot",
     "q": "^1.1.2",
